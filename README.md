@@ -1,9 +1,4 @@
-<div align="left">
-
-</div>
-
-
-## Skills
+## Skill
 
 ### Language & Framework
 <div align="left">
@@ -36,11 +31,12 @@
 <img src="https://img.shields.io/badge/AWS_SES-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
-
+<br>
+<br>
 
 ---
 
-##
+## Stat
 
 <!-- 프로필 통계 카드 -->
 <div align="left">
@@ -50,6 +46,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdvlf5456&layout=compact&theme=catppuccin_latte&hide=vue)](https://github.com/wjdvlf5456)
 
 </div>
+
+<br>
+<br>
 
 ---
 
