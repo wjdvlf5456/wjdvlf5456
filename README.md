@@ -34,16 +34,21 @@
 <br>
 
 
-## Stat
+[//]: # (## Stat)
 
-<!-- 프로필 통계 카드 -->
-<div align="left">
+[//]: # ()
+[//]: # (<!-- 프로필 통계 카드 -->)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdvlf5456&show_icons=true&theme=catppuccin_latte)
+[//]: # (<div align="left">)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdvlf5456&layout=compact&theme=catppuccin_latte&hide=vue)](https://github.com/wjdvlf5456)
+[//]: # ()
+[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wjdvlf5456&show_icons=true&theme=catppuccin_latte&#41;)
 
-</div>
+[//]: # ()
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wjdvlf5456&layout=compact&theme=catppuccin_latte&hide=vue&#41;]&#40;https://github.com/wjdvlf5456&#41;)
+
+[//]: # ()
+[//]: # (</div>)
 
 <br>
 
